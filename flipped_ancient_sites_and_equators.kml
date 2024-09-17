@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="159">
+            <IconStyle id="160">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="164">
+            <IconStyle id="165">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="166">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="169">
+            <IconStyle id="170">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="171">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="174">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="180">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="181">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="189">
+            <IconStyle id="190">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="191">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="194">
+            <IconStyle id="195">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="199">
+            <IconStyle id="200">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="201">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="204">
+            <IconStyle id="205">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="206">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="209">
+            <IconStyle id="210">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="211">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="215">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="216">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="219">
+            <IconStyle id="220">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="221">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="224">
+            <IconStyle id="225">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="226">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="229">
+            <IconStyle id="230">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="231">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="234">
+            <IconStyle id="235">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="236">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="239">
+            <IconStyle id="240">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="241">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="244">
+            <IconStyle id="245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="246">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="249">
+            <LineStyle id="250">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="253">
+            <LineStyle id="254">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Stonehenge</name>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-1.8262,51.1789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Great Pyramid of Giza</name>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>31.1342,29.9792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Sacsayhuamán</name>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-71.9817,-13.5096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Machu Picchu</name>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-72.545,-13.1631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Baalbek</name>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>36.2039,34.0058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Gobekli Tepe</name>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>38.9222,37.2231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Easter Island</name>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-109.3497,-27.1127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Guayabo</name>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-83.8612,9.1545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Carnac</name>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-3.0834,47.5936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Avebury</name>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-1.8541,51.4285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Newgrange</name>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-6.4758,53.6947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>Ring of Brodgar</name>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-3.343,59.0481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Mohenjo-daro</name>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>68.1384,27.3294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>Great Zimbabwe</name>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>30.9333,-20.267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Tiwanaku</name>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-68.672,-16.554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>Senegambian Stone Circles</name>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-14.8974,13.691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Baalbek</name>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>36.2039,34.0058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>Vainakh Towers</name>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>44.1563,43.3776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Maeshowe</name>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-2.9154,59.352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>Chichen Itza</name>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-88.5678,20.6843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Palenque</name>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-92.0372,17.482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>Cantona</name>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>-98.8438,19.6925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Monte Alban</name>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-96.7675,17.0465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>Tikal</name>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-89.6237,17.222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Caracol</name>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-89.9102,17.7561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>Jericho</name>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>35.442,31.8707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Hattusa</name>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>34.607,40.0218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>Mycenae</name>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>22.7544,37.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Knossos</name>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>25.1594,35.2982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>Athens</name>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>23.7257,37.9715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Tarxien Temples</name>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>14.5326,35.8495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name>Great Wall of China</name>
+            <styleUrl>#159</styleUrl>
+            <Point id="157">
+                <coordinates>116.5704,40.4319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Terracotta Army</name>
+            <styleUrl>#164</styleUrl>
+            <Point id="162">
+                <coordinates>109.2786,34.3853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name>Anuradhapura</name>
+            <styleUrl>#169</styleUrl>
+            <Point id="167">
+                <coordinates>80.4037,8.3114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Polonnaruwa</name>
+            <styleUrl>#174</styleUrl>
+            <Point id="172">
+                <coordinates>81.0184,7.9403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>Sigiriya</name>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>80.7603,7.9569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Angkor Wat</name>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>103.8667,13.4125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name>Borobudur</name>
+            <styleUrl>#189</styleUrl>
+            <Point id="187">
+                <coordinates>110.2038,-7.6079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Nan Madol</name>
+            <styleUrl>#194</styleUrl>
+            <Point id="192">
+                <coordinates>158.3348,6.8428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <name>Petra</name>
+            <styleUrl>#199</styleUrl>
+            <Point id="197">
+                <coordinates>35.4444,30.3285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Troy</name>
+            <styleUrl>#204</styleUrl>
+            <Point id="202">
+                <coordinates>26.2385,39.9578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="208">
+            <name>Delphi</name>
+            <styleUrl>#209</styleUrl>
+            <Point id="207">
+                <coordinates>22.501,38.4828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Amphipolis</name>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>23.8537,40.836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="218">
+            <name>Aksum</name>
+            <styleUrl>#219</styleUrl>
+            <Point id="217">
+                <coordinates>38.72,14.132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Abu Simbel</name>
+            <styleUrl>#224</styleUrl>
+            <Point id="222">
+                <coordinates>30.7194,22.5091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="228">
+            <name>Luxor Temple</name>
+            <styleUrl>#229</styleUrl>
+            <Point id="227">
+                <coordinates>32.6014,25.7402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Jebel Barkal</name>
+            <styleUrl>#234</styleUrl>
+            <Point id="232">
+                <coordinates>33.743,16.937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="238">
+            <name>Dahshur</name>
+            <styleUrl>#239</styleUrl>
+            <Point id="237">
+                <coordinates>31.1557,29.4731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Serpent Mound</name>
+            <styleUrl>#244</styleUrl>
+            <Point id="242">
+                <coordinates>-83.4301,39.0259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="248">
+            <name>Earth's Flipped Equator</name>
+            <styleUrl>#249</styleUrl>
+            <LineString id="247">
+                <coordinates>0,-90.0,0.0 0,-89.49860724233983,0.0 0,-88.99721448467966,0.0 0,-88.4958217270195,0.0 0,-87.99442896935933,0.0 0,-87.49303621169916,0.0 0,-86.991643454039,0.0 0,-86.49025069637884,0.0 0,-85.98885793871867,0.0 0,-85.4874651810585,0.0 0,-84.98607242339833,0.0 0,-84.48467966573816,0.0 0,-83.983286908078,0.0 0,-83.48189415041783,0.0 0,-82.98050139275766,0.0 0,-82.47910863509749,0.0 0,-81.97771587743733,0.0 0,-81.47632311977716,0.0 0,-80.974930362117,0.0 0,-80.47353760445682,0.0 0,-79.97214484679665,0.0 0,-79.4707520891365,0.0 0,-78.96935933147633,0.0 0,-78.46796657381616,0.0 0,-77.96657381615599,0.0 0,-77.46518105849583,0.0 0,-76.96378830083566,0.0 0,-76.46239554317549,0.0 0,-75.96100278551532,0.0 0,-75.45961002785515,0.0 0,-74.95821727019498,0.0 0,-74.45682451253482,0.0 0,-73.95543175487465,0.0 0,-73.45403899721448,0.0 0,-72.95264623955433,0.0 0,-72.45125348189416,0.0 0,-71.94986072423399,0.0 0,-71.44846796657382,0.0 0,-70.94707520891365,0.0 0,-70.44568245125348,0.0 0,-69.94428969359332,0.0 0,-69.44289693593315,0.0 0,-68.94150417827298,0.0 0,-68.44011142061282,0.0 0,-67.93871866295265,0.0 0,-67.43732590529248,0.0 0,-66.93593314763231,0.0 0,-66.43454038997214,0.0 0,-65.93314763231197,0.0 0,-65.43175487465182,0.0 0,-64.93036211699165,0.0 0,-64.42896935933148,0.0 0,-63.92757660167131,0.0 0,-63.42618384401114,0.0 0,-62.92479108635098,0.0 0,-62.42339832869081,0.0 0,-61.92200557103064,0.0 0,-61.420612813370475,0.0 0,-60.91922005571031,0.0 0,-60.41782729805014,0.0 0,-59.91643454038997,0.0 0,-59.4150417827298,0.0 0,-58.91364902506964,0.0 0,-58.412256267409475,0.0 0,-57.910863509749305,0.0 0,-57.409470752089135,0.0 0,-56.90807799442897,0.0 0,-56.4066852367688,0.0 0,-55.90529247910864,0.0 0,-55.40389972144847,0.0 0,-54.902506963788305,0.0 0,-54.401114206128135,0.0 0,-53.89972144846797,0.0 0,-53.3983286908078,0.0 0,-52.89693593314763,0.0 0,-52.39554317548747,0.0 0,-51.8941504178273,0.0 0,-51.392757660167135,0.0 0,-50.891364902506965,0.0 0,-50.3899721448468,0.0 0,-49.88857938718663,0.0 0,-49.38718662952646,0.0 0,-48.8857938718663,0.0 0,-48.38440111420613,0.0 0,-47.883008356545965,0.0 0,-47.381615598885794,0.0 0,-46.88022284122563,0.0 0,-46.37883008356546,0.0 0,-45.87743732590529,0.0 0,-45.37604456824513,0.0 0,-44.87465181058496,0.0 0,-44.373259052924794,0.0 0,-43.871866295264624,0.0 0,-43.37047353760446,0.0 0,-42.86908077994429,0.0 0,-42.36768802228413,0.0 0,-41.86629526462396,0.0 0,-41.36490250696379,0.0 0,-40.863509749303624,0.0 0,-40.362116991643454,0.0 0,-39.86072423398329,0.0 0,-39.35933147632312,0.0 0,-38.85793871866296,0.0 0,-38.35654596100279,0.0 0,-37.855153203342624,0.0 0,-37.353760445682454,0.0 0,-36.852367688022284,0.0 0,-36.35097493036212,0.0 0,-35.84958217270195,0.0 0,-35.34818941504179,0.0 0,-34.84679665738162,0.0 0,-34.345403899721454,0.0 0,-33.844011142061284,0.0 0,-33.34261838440111,0.0 0,-32.84122562674095,0.0 0,-32.33983286908078,0.0 0,-31.838440111420617,0.0 0,-31.337047353760447,0.0 0,-30.835654596100284,0.0 0,-30.334261838440113,0.0 0,-29.832869080779943,0.0 0,-29.33147632311978,0.0 0,-28.83008356545961,0.0 0,-28.328690807799447,0.0 0,-27.827298050139277,0.0 0,-27.325905292479113,0.0 0,-26.824512534818943,0.0 0,-26.32311977715878,0.0 0,-25.82172701949861,0.0 0,-25.32033426183844,0.0 0,-24.81894150417827,0.0 0,-24.317548746518113,0.0 0,-23.816155988857943,0.0 0,-23.314763231197773,0.0 0,-22.813370473537603,0.0 0,-22.311977715877447,0.0 0,-21.810584958217277,0.0 0,-21.309192200557106,0.0 0,-20.807799442896936,0.0 0,-20.306406685236766,0.0 0,-19.80501392757661,0.0 0,-19.30362116991644,0.0 0,-18.80222841225627,0.0 0,-18.3008356545961,0.0 0,-17.799442896935943,0.0 0,-17.298050139275773,0.0 0,-16.796657381615603,0.0 0,-16.295264623955433,0.0 0,-15.793871866295262,0.0 0,-15.292479108635106,0.0 0,-14.791086350974936,0.0 0,-14.289693593314766,0.0 0,-13.788300835654596,0.0 0,-13.286908077994426,0.0 0,-12.78551532033427,0.0 0,-12.2841225626741,0.0 0,-11.782729805013929,0.0 0,-11.281337047353759,0.0 0,-10.779944289693603,0.0 0,-10.278551532033433,0.0 0,-9.777158774373262,0.0 0,-9.275766016713092,0.0 0,-8.774373259052922,0.0 0,-8.272980501392766,0.0 0,-7.771587743732596,0.0 0,-7.2701949860724255,0.0 0,-6.768802228412255,0.0 0,-6.267409470752099,0.0 0,-5.766016713091929,0.0 0,-5.264623955431759,0.0 0,-4.763231197771589,0.0 0,-4.261838440111418,0.0 0,-3.7604456824512624,0.0 0,-3.259052924791092,0.0 0,-2.757660167130922,0.0 0,-2.2562674094707518,0.0 0,-1.7548746518105816,0.0 0,-1.2534818941504255,0.0 0,-0.7520891364902553,0.0 0,-0.2506963788300851,0.0 0,0.2506963788300851,0.0 0,0.7520891364902411,0.0 0,1.2534818941504113,0.0 0,1.7548746518105816,0.0 0,2.2562674094707518,0.0 0,2.757660167130922,0.0 0,3.259052924791078,0.0 0,3.760445682451248,0.0 0,4.261838440111418,0.0 0,4.763231197771589,0.0 0,5.264623955431745,0.0 0,5.766016713091915,0.0 0,6.267409470752085,0.0 0,6.768802228412255,0.0 0,7.2701949860724255,0.0 0,7.7715877437325815,0.0 0,8.272980501392752,0.0 0,8.774373259052922,0.0 0,9.275766016713092,0.0 0,9.777158774373248,0.0 0,10.278551532033418,0.0 0,10.779944289693589,0.0 0,11.281337047353759,0.0 0,11.782729805013929,0.0 0,12.284122562674085,0.0 0,12.785515320334255,0.0 0,13.286908077994426,0.0 0,13.788300835654596,0.0 0,14.289693593314752,0.0 0,14.791086350974922,0.0 0,15.292479108635092,0.0 0,15.793871866295262,0.0 0,16.295264623955433,0.0 0,16.79665738161559,0.0 0,17.29805013927576,0.0 0,17.79944289693593,0.0 0,18.3008356545961,0.0 0,18.80222841225627,0.0 0,19.303621169916426,0.0 0,19.805013927576596,0.0 0,20.306406685236766,0.0 0,20.807799442896936,0.0 0,21.309192200557092,0.0 0,21.810584958217262,0.0 0,22.311977715877433,0.0 0,22.813370473537603,0.0 0,23.314763231197773,0.0 0,23.81615598885793,0.0 0,24.3175487465181,0.0 0,24.81894150417827,0.0 0,25.32033426183844,0.0 0,25.821727019498596,0.0 0,26.323119777158766,0.0 0,26.824512534818936,0.0 0,27.325905292479106,0.0 0,27.827298050139277,0.0 0,28.328690807799433,0.0 0,28.830083565459603,0.0 0,29.331476323119773,0.0 0,29.832869080779943,0.0 0,30.334261838440113,0.0 0,30.83565459610027,0.0 0,31.33704735376044,0.0 0,31.83844011142061,0.0 0,32.33983286908078,0.0 0,32.841225626740936,0.0 0,33.342618384401106,0.0 0,33.84401114206128,0.0 0,34.34540389972145,0.0 0,34.84679665738162,0.0 0,35.34818941504177,0.0 0,35.84958217270194,0.0 0,36.35097493036211,0.0 0,36.852367688022284,0.0 0,37.35376044568244,0.0 0,37.85515320334261,0.0 0,38.35654596100278,0.0 0,38.85793871866295,0.0 0,39.35933147632312,0.0 0,39.86072423398329,0.0 0,40.36211699164346,0.0 0,40.8635097493036,0.0 0,41.36490250696377,0.0 0,41.86629526462394,0.0 0,42.36768802228411,0.0 0,42.869080779944284,0.0 0,43.370473537604454,0.0 0,43.871866295264624,0.0 0,44.373259052924794,0.0 0,44.874651810584965,0.0 0,45.376044568245106,0.0 0,45.87743732590528,0.0 0,46.37883008356545,0.0 0,46.88022284122562,0.0 0,47.38161559888579,0.0 0,47.88300835654596,0.0 0,48.38440111420613,0.0 0,48.8857938718663,0.0 0,49.38718662952647,0.0 0,49.88857938718661,0.0 0,50.38997214484678,0.0 0,50.89136490250695,0.0 0,51.39275766016712,0.0 0,51.89415041782729,0.0 0,52.39554317548746,0.0 0,52.89693593314763,0.0 0,53.3983286908078,0.0 0,53.89972144846797,0.0 0,54.40111420612811,0.0 0,54.902506963788284,0.0 0,55.403899721448454,0.0 0,55.905292479108624,0.0 0,56.406685236768794,0.0 0,56.908077994428965,0.0 0,57.409470752089135,0.0 0,57.910863509749305,0.0 0,58.412256267409475,0.0 0,58.913649025069645,0.0 0,59.41504178272979,0.0 0,59.91643454038996,0.0 0,60.41782729805013,0.0 0,60.9192200557103,0.0 0,61.42061281337047,0.0 0,61.92200557103064,0.0 0,62.42339832869081,0.0 0,62.92479108635098,0.0 0,63.42618384401115,0.0 0,63.92757660167129,0.0 0,64.42896935933146,0.0 0,64.93036211699163,0.0 0,65.4317548746518,0.0 0,65.93314763231197,0.0 0,66.43454038997214,0.0 0,66.93593314763231,0.0 0,67.43732590529248,0.0 0,67.93871866295265,0.0 0,68.4401114206128,0.0 0,68.94150417827296,0.0 0,69.44289693593313,0.0 0,69.9442896935933,0.0 0,70.44568245125348,0.0 0,70.94707520891365,0.0 0,71.44846796657382,0.0 0,71.94986072423399,0.0 0,72.45125348189416,0.0 0,72.9526462395543,0.0 0,73.45403899721447,0.0 0,73.95543175487464,0.0 0,74.45682451253481,0.0 0,74.95821727019498,0.0 0,75.45961002785515,0.0 0,75.96100278551532,0.0 0,76.46239554317549,0.0 0,76.96378830083566,0.0 0,77.4651810584958,0.0 0,77.96657381615597,0.0 0,78.46796657381614,0.0 0,78.96935933147631,0.0 0,79.47075208913648,0.0 0,79.97214484679665,0.0 0,80.47353760445682,0.0 0,80.974930362117,0.0 0,81.47632311977716,0.0 0,81.9777158774373,0.0 0,82.47910863509748,0.0 0,82.98050139275765,0.0 0,83.48189415041782,0.0 0,83.98328690807799,0.0 0,84.48467966573816,0.0 0,84.98607242339833,0.0 0,85.4874651810585,0.0 0,85.98885793871867,0.0 0,86.49025069637884,0.0 0,86.99164345403898,0.0 0,87.49303621169915,0.0 0,87.99442896935932,0.0 0,88.49582172701949,0.0 0,88.99721448467966,0.0 0,89.49860724233983,0.0 0,90.0,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="252">
+            <name>Easter Island to Giza Flipped Equator</name>
+            <styleUrl>#253</styleUrl>
+            <LineString id="251">
+                <coordinates>-109.3497,-27.1127,0.0 -108.23414781713268,-26.855076254117968,0.0 -107.1237489000233,-26.58873941682551,0.0 -106.01858744417794,-26.313829952114194,0.0 -104.91873796477515,-26.03049070823301,0.0 -103.8242653988001,-25.738866694437267,0.0 -102.73522523173506,-25.439104863209653,0.0 -101.65166364680138,-25.131353898546813,0.0 -100.57361769472685,-24.815764010838116,0.0 -99.50111548201112,-24.492486738796778,0.0 -98.43417637567698,-24.161674758838497,0.0 -97.3728112225284,-23.82348170224005,0.0 -96.31702258098117,-23.478061980348915,0.0 -95.26680496359225,-23.125570618057456,0.0 -94.22214508848221,-22.766163095699504,0.0 -93.1830221379246,-22.399995199475743,0.0 -92.14940802246217,-22.027222880465455,0.0 -91.12126764900104,-21.64800212223737,0.0 -90.09855919143145,-21.262488817031176,0.0 -89.08123436242154,-20.870838650443165,0.0 -88.06923868513293,-20.473206994515927,0.0 -87.06251176370728,-20.06974880910114,0.0 -86.0609875514752,-19.660618551337752,0.0 -85.06459461593741,-19.24597009306403,0.0 -84.07325639966705,-18.825956645961845,0.0 -83.08689147637538,-18.400730694213944,0.0 -82.10541380147599,-17.970443934440674,0.0 -81.12873295656905,-17.535247222671202,0.0 -80.15675438735185,-17.095290528094598,0.0 -79.18937963453952,-16.650722893329768,0.0 -78.22650655745589,-16.20169240094853,0.0 -77.2680295500229,-15.748346145983051,0.0 -76.31383974894284,-15.290830214148441,0.0 -75.36382523392716,-14.829289665511421,0.0 -74.41787121988231,-14.363868523338473,0.0 -73.47586024101275,-13.894709767859664,0.0 -72.53767232684889,-13.421955334689196,0.0 -71.60318517024925,-12.945746117648351,0.0 -70.67227428746519,-12.466221975743109,0.0 -69.74481317038956,-11.983521744054874,0.0 -68.82067343114296,-11.497783248310213,0.0 -67.89972493917689,-11.009143322902824,0.0 -66.98183595109855,-10.517737832148985,0.0 -66.06687323344197,-10.023701694565515,0.0 -65.15470217862936,-9.52716890996769,0.0 -64.24518691438199,-9.028272589192396,0.0 -63.338190406853485,-8.527144986260225,0.0 -62.43357455777074,-8.023917532797853,0.0 -61.53120029587574,-7.518720874550291,0.0 -60.630927662971914,-7.011684909819876,0.0 -59.73261589488269,-6.502938829676139,0.0 -58.83612349763806,-5.992611159788408,0.0 -57.94130831920643,-5.480829803738712,0.0 -57.04802761709449,-4.967722087679711,0.0 -56.15613812213913,-4.45341480620816,0.0 -55.26549609881777,-3.938034269329513,0.0 -54.37595740240441,-3.421706350395132,0.0 -53.487377533299544,-2.9045565348976363,0.0 -52.59961168886315,-2.386709970014475,0.0 -51.712514813079125,-1.868291514793426,0.0 -50.8259416443805,-1.3494257908771519,0.0 -49.93974676196402,-0.8302372336663901,0.0 -49.0537846309232,-0.3108501438241656,0.0 -48.167909646528024,0.20861126097522092,0.0 -47.28197617798007,0.7280227941471972,0.0 -46.39583861197089,1.2472602482418071,0.0 -45.5093513963726,1.7661993430263419,0.0 -44.62236908438826,2.284715673699257,0.0 -43.734746379490986,2.802684659330347,0.0 -42.84633818148019,3.31998149162266,0.0 -41.95699963398322,3.836481084093853,0.0 -41.066586173732055,4.3520580217765,0.0 -40.174953581943306,4.86658651153991,0.0 -39.28195803813067,5.379940333138916,0.0 -38.38745617667887,5.891992791098948,0.0 -37.49130514650728,6.402616667550629,0.0 -36.593362674150654,6.911684176132021,0.0 -35.693487130583804,7.419066917081404,0.0 -34.79153760211477,7.924635833648995,0.0 -33.88737396566921,8.428261169962122,0.0 -32.98085696878475,8.929812430484375,0.0 -32.071848314631325,9.429158341215956,0.0 -31.160210752367053,9.926166812789603,0.0 -30.2458081731337,10.420704905623673,0.0 -29.32850571198789,10.912638797301224,0.0 -28.40816985605443,11.401833752352411,0.0 -27.484668559177315,11.888154094624744,0.0 -26.557871363330875,12.371463182434315,0.0 -25.627649527037896,12.851623386699002,0.0 -24.69387616102317,13.328496072263176,0.0 -23.756426371312134,13.801941582630661,0.0 -22.815177409958324,14.271819228331726,0.0 -21.870008833559066,14.73798727915635,0.0 -20.920802669687255,15.200302960494223,0.0 -19.96744359133457,15.658622454027764,0.0 -19.00981909942308,16.112800903031445,0.0 -18.047819713401875,16.5626924225354,0.0 -17.08133916989818,17.008150114616356,0.0 -16.110274629344065,17.44902608908188,0.0 -15.134526890443437,17.885171489816855,0.0 -14.154000612286087,18.316436527061185,0.0 -13.168604543850451,18.74267051588811,0.0 -12.17825176056888,19.16372192114911,0.0 -11.182859907554409,19.579438409148068,0.0 -10.182351449011469,19.98966690630021,0.0 -9.1766539232684,20.39425366502325,0.0 -8.165700202784814,20.79304433709656,0.0 -7.149428758394251,21.185884054710765,0.0 -6.1277839269496415,21.572617519412933,0.0 -5.100716181441461,21.953089099133276,0.0 -4.068182402559031,22.327142933455892,0.0 -3.0301461505647462,22.694623047270056,0.0 -1.9865779362493414,23.055373472908606,0.0 -0.9374554896351646,23.40923838084667,0.0 0.11723597500538005,23.756062218997098,0.0 1.177503499345758,24.09568986059821,0.0 2.24334612803842,24.427966760645358,0.0 3.314754664294944,24.75273912076986,0.0 4.391711435803274,25.069854062417814,0.0 5.474190072844297,25.379159808126477,0.0 6.562155300529883,25.680505870638655,0.0 7.655562747134623,25.973743249534984,0.0 8.754358770527594,26.25872463500144,0.0 9.858480304730127,26.535304618284762,0.0 10.967854728627271,26.803339908322368,0.0 12.082399758843756,27.062689553966557,0.0 13.202023368757121,27.31321517115547,0.0 14.326623735562437,27.554781174316812,0.0 15.456089217219429,27.787255011224723,0.0 16.590298361008436,28.010507400466988,0.0 17.729119945290282,28.22441257061929,0.0 18.872413055911235,28.428848500166243,0.0 20.020027198515503,28.62369715715742,0.0 21.171802447824454,28.808844737539516,0.0 22.327569634717364,28.98418190106645,0.0 23.487150571701147,29.149604003655906,0.0 24.650358317091253,29.30501132503678,0.0 25.816997477942333,29.450309290515797,0.0 26.986864551470525,29.585408685685863,0.0 28.159748304400306,29.710225862902185,0.0 29.3354301893535,29.82468293836692,0.0 30.513684797077598,29.928707978688077,0.0 31.69428034299239,30.022235175814764,0.0 32.87697918621815,30.105205009298086,0.0 34.06153837894461,30.17756439488471,0.0 35.247710243707495,30.23926681851915,0.0 36.43524297586546,30.290272454908674,0.0 37.62388126831999,30.330548269893093,0.0 38.81336695529428,30.360068105957808,0.0 40.00343967179233,30.378812750332184,0.0 41.19383752519658,30.386769985226064,0.0 42.384297775336336,30.383934619872228,0.0 43.5745575192692,30.370308504162367,0.0 44.76435437696903,30.345900523785968,0.0 45.953427174103304,30.31072657690432,0.0 47.14151661811481,30.264809532514587,0.0 48.328365963891684,30.20817917077981,0.0 49.51372166542025,30.14087210571769,0.0 50.697334009959384,30.062931690754702,0.0 51.87895773145744,29.974407907758422,0.0 53.058352600141944,29.875357240261458,0.0 54.23528398545403,29.765842531682107,0.0 55.409523389761176,29.6459328294301,0.0 56.5808489505673,29.515703215858764,0.0 57.749045909237466,29.375234627088364,0.0 58.91390704456549,29.224613660777486,0.0 60.075233069830254,29.06393237396072,0.0 61.2328329923066,28.893288072101612,0.0 62.386524434514754,28.712783090528987,0.0 63.53613391680478,28.5225245694338,0.0 64.6814971011748,28.32262422360228,0.0 65.82245899651383,28.113198108049545,0.0 66.95887412573168,27.894366380697807,0.0 68.09060665549696,27.666253063213983,0.0 69.21753048953764,27.42898580108538,0.0 70.33952932667437,27.182695623967884,0.0 71.45649668494437,26.927516707292554,0.0 72.56833589334236,26.663586136060903,0.0 73.67496005284471,26.391043671701237,0.0 74.7762919685014,26.110031522795854,0.0 75.87226405447385,25.820694120424232,0.0 76.9628182139657,25.523177898801666,0.0 78.04790569604215,25.217631081825452,0.0 79.12748693136056,24.904203476073437,0.0 80.20153134884023,24.583046270733888,0.0 81.27001717529048,24.254311844879386,0.0 82.33293121998571,23.918153582434666,0.0 83.39026864613656,23.574725695125995,0.0 84.44203273114792,23.224183053641624,0.0 85.48823461749035,22.86668102717595,0.0 86.52889305593285,22.502375331478156,0.0 87.56403414280265,22.131421885475724,0.0 88.59369105284615,21.75397667649791,0.0 89.61790376917001,21.370195634081618,0.0 90.63671881164336,20.980234512303507,0.0 91.65018896504054,20.584248780547266,0.0 92.65837300810396,20.182393522583,0.0 93.66133544460287,19.77482334380845,0.0 94.65914623736585,19.3616922864768,0.0 95.651880546166,18.943153752714284,0.0 96.63961847024102,18.519360435113455,0.0 97.62244479613894,18.090464254672188,0.0 98.6004487514923,17.65661630583586,0.0 99.57372376523645,17.217966808391324,0.0 100.5423672347102,16.774665065952405,0.0 101.50648029999856,16.326859430773084,0.0 102.46616762580865,15.874697274619498,0.0 103.42153719110185,15.418324965432141,0.0 104.37270008664423,14.957887849508614,0.0 105.31977032058069,14.493530238939638,0.0 106.26286463208544,14.025395404033745,0.0 107.20210231309458,13.553625570469908,0.0 108.13760503808149,13.078361920922884,0.0 109.0694967017985,12.599744600911189,0.0 109.997903264871,12.117912728624788,0.0 110.92295260709986,11.633004408495882,0.0 111.84477438829917,11.145156748284275,0.0 112.76349991647143,10.654505879456167,0.0 113.6792620231009,10.161186980643189,0.0 114.59219494532583,9.665334303976946,0.0 115.5024342147353,9.167081204101882,0.0 116.41011655251987,8.66656016967826,0.0 117.3153797706955,8.163902857194147,0.0 118.2183626791088,7.659240126913719,0.0 119.1192049979224,7.152702080797089,0.0 120.01804727527472,6.644418102233466,0.0 120.91503080979967,6.134516897437407,0.0 121.81029757768934,5.623126538364649,0.0 122.70399016397923,5.110374507009376,0.0 123.59625169773088,4.596387740952884,0.0 124.4872257907873,4.081292680037289,0.0 125.37705647977398,3.565215314044045,0.0 126.26588817101644,3.048281231262287,0.0 127.15386558804703,2.5306156678352942,0.0 128.0411337213709,2.0123435577781854,0.0 128.9278377801631,1.4935895835628679,0.0 129.81412314556715,0.9744782271693004,0.0 130.70013532526693,0.4551338215047142,0.0 131.5860199090028,-0.06431939790585303,0.0 132.47192252470361,-0.5837572410527437,0.0 133.357988794907,-1.103055511492933,0.0 134.24436429313783,-1.6220899544124794,0.0 135.13119449991902,-2.1407362047947402,0.0 136.01862475808417,-2.6588697357881186,0.0 136.90680022706474,-3.1763658073688785,0.0 137.79586583582264,-3.6930994153960945,0.0 138.6859662340999,-4.208945241157663,0.0 139.57724574165582,-4.723777601509071,0.0 140.46984829516296,-5.237470399709405,0.0 141.36391739243336,-5.74989707706301,0.0 142.25959603364626,-6.260930565478653,0.0 143.15702665924894,-6.770443241063087,0.0 144.0563510842051,-7.278306878870589,0.0 144.95771042826382,-7.784392608934941,0.0 145.8612450419275,-8.288570873717173,0.0 146.76709442779722,-8.790711387107377,0.0 147.67539715698035,-9.29068309512638,0.0 148.5862907802469,-9.788354138479027,0.0 149.4999117336312,-10.283591817119419,0.0 150.41639523817815,-10.776262556994103,0.0 151.33587519354677,-11.266231879138813,0.0 152.2584840651907,-11.7533643713108,0.0 153.1843527648504,-12.237523662347801,0.0 154.11361052410527,-12.718572399452345,0.0 155.04638476075147,-13.19637222860838,0.0 155.98280093779118,-13.670783778345378,0.0 156.9229824148411,-14.141666647072723,0.0 157.86705029179453,-14.60887939421549,0.0 158.81512324459942,-15.07227953538903,0.0 159.76731735304776,-15.53172354185778,0.0 160.72374592050886,-15.987066844529469,0.0 161.68451928557735,-16.43816384274132,0.0 162.6497446256538,-16.884867918100177,0.0 163.61952575252204,-17.327031453641812,0.0 164.5939629000435,-17.764505858577508,0.0 165.573152504144,-18.197141598897346,0.0 166.55718697533362,-18.624788234099118,0.0 167.54615446406655,-19.04729446031069,0.0 168.5401386193197,-19.464508160068746,0.0 169.5392183408474,-19.87627645901261,0.0 170.5434675256491,-20.28244578974203,0.0 171.5529548092737,-20.682861963079265,0.0 172.56774330267388,-21.077370246960875,0.0 173.5878903254169,-21.465815453170467,0.0 174.61344713615406,-21.84804203210302,0.0 175.64445866135134,-22.22389417573086,0.0 176.68096322338306,-22.593215928915146,0.0 177.72299226919145,-22.955851309177728,0.0 178.77057010081884,-23.31164443501699,0.0 179.8237136092162,-23.66043966281389,0.0 179.02399452206777,-24.002081732335856,0.0 180.08828911181234,-24.336415920802878,0.0 181.15815300409025,-24.66328820543228,0.0 182.23357090366093,-24.982545434330227,0.0 183.31451887817616,-25.294035505542247,0.0 184.40096414629951,-25.597607554019834,0.0 185.49286488136823,-25.893112146200323,0.0 186.5901700325941,-26.180401481834387,0.0 187.69281916582742,-26.459329602632447,0.0 188.8007423259119,-26.729752607234833,0.0 189.91385992264856,-26.991528871944087,0.0 191.0320826423538,-27.244519276590722,0.0 192.1553113869446,-27.488587434836585,0.0 193.2834372424067,-27.72359992815438,0.0 194.4163414784051,-27.949426542658006,0.0 195.55389558066884,-28.165940507896558,0.0 196.69596131763765,-28.373018736667216,0.0 197.8423908426857,-28.57054206484934,0.0 198.99302683303785,-28.758395490212855,0.0 200.14770266628122,-28.936468409113417,0.0 201.30624263512715,-29.104654849951093,0.0 202.4684622008227,-29.262853702242747,0.0 203.63416828533138,-29.410968940140357,0.0 204.80315960210666,-29.54890983921801,0.0 205.9752270249792,-29.676591185351754,0.0 207.15015399436408,-29.79393347452806,0.0 208.32771695967253,-29.900863102438276,0.0 209.50768585649712,-29.997312542750283,0.0 210.68982461681924,-30.083220512992156,0.0 211.87389171018233,-30.15853212703802,0.0 213.0596407134764,-30.223199033251667,0.0 214.24682090670186,-30.27717953741955,0.0 215.4351778918207,-30.320438709689647,0.0 216.624454231573,-30.35294847482745,0.0 217.81439010492903,-30.374687685201266,0.0 219.0047239756784,-30.385642176018575,0.0 220.1951932705197,-30.38580480244876,0.0 221.38553506291277,-30.37517545838624,0.0 222.57548675889834,-30.3537610767293,0.0 223.76478678106565,-30.32157561117277,0.0 224.95317524687007,-30.278639999635615,0.0 226.1403946375629,-30.224982109565683,0.0 227.32619045409123,-30.160636665482762,0.0 228.5103118564647,-30.08564515923515,0.0 229.69251228325618,-30.000055743553794,0.0 230.8725500481036,-29.903923109590426,0.0 232.05018891031824,-29.797308349219918,0.0 233.22519861695542,-29.68027880297326,0.0 234.39735541398687,-29.55290789454318,0.0 235.5664425245081,-29.41527495287048,0.0 236.73225059222113,-29.267465022874752,0.0 237.89457808874968,-29.10956866593726,0.0 239.05323168366493,-28.94168175127743,0.0 240.208026576416,-28.763905239387,0.0 241.3587867896779,-28.576344958697394,0.0 242.50534542393072,-28.37911137665751,0.0 243.64754487338212,-28.172319366390315,0.0 244.78523700362297,-27.956087970078723,0.0 245.91828329166518,-27.73054016020459,0.0 247.0465549292549,-27.49580259973033,0.0 248.1699328905738,-27.252005402270264,0.0 249.28830796563517,-26.999281893251975,0.0 250.40158076085896,-26.737768373013466,0.0 251.50966166845316,-26.46760388272541,0.0 252.61247080635775,-26.18892997396552,0.0 253.70993793060472,-25.901890482708502,0.0 254.80200232202424,-25.606631308429634,0.0 255.88861264928136,-25.3033001989524,0.0 256.96972681026153,-24.992046541603823,0.0 258.0453117538311,-24.673021161175015,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
